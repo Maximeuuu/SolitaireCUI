@@ -1,0 +1,3 @@
+/*TasCarte extends Pile*/
+//package solitaire.metier;
+//pas certain de l'implémenter

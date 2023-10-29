@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"solitaire"},{"l":"solitaire.ihm"},{"l":"solitaire.metier"},{"l":"solitaire.test"}];updateSearchResults();
